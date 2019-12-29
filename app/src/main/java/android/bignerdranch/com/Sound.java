@@ -11,11 +11,11 @@ public class Sound {
         mName = filename.replace(".wav", "");
     }
 
-    public String getmAssetPath() {
+    public String getAssetPath() {
         return mAssetPath;
     }
 
-    public String getmName() {
+    public String getName() {
         return mName;
     }
 
